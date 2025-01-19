@@ -1,5 +1,5 @@
 # Villanos
 
-*Dr. Doom
-*Red Skull
-*Dr. Mauricio
+* Dr. Doom
+* Red Skull
+* Capitan America
